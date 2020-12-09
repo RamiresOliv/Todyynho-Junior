@@ -39,7 +39,7 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 
 ## 🔌 Mas oque é esse Todyynho Juinior?
 
-* Bom o [Todyynho Junior](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599) é um bot do Discord de moderação ou diverção você pode se divertir muito usando ele ou os comandos dele ele foi criado para te ajudar a se divertir e mover seu servidor! :)
+* Bom o [Todyynho Junior](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599) é um bot do Discord de moderação ou diverção, você pode se divertir muito usando ele ou os comandos dele, ele foi criado para te ajudar a divertir os seus membros e movimentar seu servidor! :)
 
 ## 📰 **Oque tem de novo no bot?**
 > por exemplo remover o bem vindo ou adicionar o bem vindo e etc os que vão ter ficara com ✅ os que não vira ficara com ❌
