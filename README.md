@@ -11,7 +11,7 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 * Recursos utilizados até hoje para fazer o Bot
 
 1. vscode
-2. node .
+2. node.js
 3. Java Script
 
 ## © Licença
