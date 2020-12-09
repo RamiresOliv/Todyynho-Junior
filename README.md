@@ -1,13 +1,17 @@
 # 🎄 Toddynho Junior® ☕
+Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord  Brasileiro 👌
 
-> Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord  Brasileiro 👌
-
-[![](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/gabrielramires/Todyynho-Junior)
+[![ ](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/gabrielramires/Todyynho-Junior)
 
 ![ ](https://cdn.discordapp.com/attachments/727984820269088798/785610899498336296/unknown.png)
 
 # 🤖 Todyynho Junior (Discord Bot de Diverção)
 > O Todyynho Junior foi criado do ZERO em [discord.js](https://discordjs.guide) mas tenho o orgulho de dizer que o Todyynho Junior é minha  maior alegria :)
+
+## Licença
+> Porfavor leia a Licença para saber oque pode fazer e oque não pode
+
+Este repositorio á uma licença [MIT](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)
 
 ## 🔸 Requisitos...
 > requisitos para saber see você pode ou tem condiçoes para o Todyynho
@@ -31,15 +35,15 @@
 
 Bom o [Todyynho Junior](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599) é um bot do Discord de moderação ou diverção você pode se divertir muito usando ele ou os comandos dele ele foi criado para te ajudar a se divertir e mover seu servidor! :)
 
-## 📰** Oque tem de novo no bot?**
+## 📰 **Oque tem de novo no bot?**
 >por exemplo remover o bem vindo ou adicionar o bem vindo e etc os que vão ter ficara com ✅ os que não vira ficara com ❌
 
-1. ✅ vira todos os comandos do bot!
-2. ✅ vira atualizações aqui!
+1. ✅ virá todos os comandos do bot!
+2. ✅ virá atualizações aqui!
 
-1. ❌ não vira o sistema de bem vindo ou de tchau
-2. ❌ não vira a pasta de `outros` onde fica os testes e etc 
-3. ❌ não vira informações pessoais do Ramires ou minhas 
+1. ❌ não virá o sistema de bem vindo ou de tchau
+2. ❌ não virá a pasta de `outros` onde fica os testes e etc 
+3. ❌ não virá informações pessoais do Ramires ou minhas 
 
 # 🚀 **Como começar?**
 > **primeiro veja estes links de ajuda!**
@@ -60,7 +64,7 @@ Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bo
 
 1. ⚠ troque o `xxxx` para o token do seu bot!
 2. ✔ troque o `teu nome` para seu nome no discord!
-3. ✔ troque o `teu id` para seu ID do discord!
+3. ⚠ troque o `teu id` para seu ID do discord!
 4. ✔ troque o `t.` para um prefix aleatorio!
 
 ```json
