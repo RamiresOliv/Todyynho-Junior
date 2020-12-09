@@ -5,4 +5,4 @@
 3. Compartinhando `ajude compartinhando-me!`
 4. Outros `varias outras coisas para me ajudar :>`
 
-* Lembre-se oque ajuda, é meu amiguinho :3
+* Lembre-se a pessoa que ajuda, sera meu amiguinho UwU
