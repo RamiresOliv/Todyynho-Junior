@@ -1,4 +1,4 @@
-const Discord = require("discord.jts")
+const Discord = require("discord.js")
 const config = require("../Config/config.json") 
 module.exports.run = async (client, message, args) => {
    const saymessage = args.join(' '); 
