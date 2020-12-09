@@ -52,21 +52,21 @@ Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bo
 
 Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 
-## ⚙️ **Configuração**
-> modificando  o nome do `config.json.exemple` dentro da pasta `Config`.
+# ⚙️ **Configuração**
+
+modificando  o nome do `config.json.exemple` dentro da pasta `Config`.
 
 ![ ](https://cdn.discordapp.com/attachments/776428610096857098/785617396575895583/unknown.png)
 
 ⚠ **Atanção!**
 **antes de tudo** troque ou copie o nome da file `config.json.exemple` para `config.json` depois disso continue!
 
-## 🔏 iniciação dentro do config.json
-> colocarei ⚠ para mudar imediatamente e  ✔ que não presisa mudar
+Colocarei ⚠ para mudar imediatamente e  ✔ que não presisa mudar
 
-1. ⚠ troque o `xxxx` para o token do seu bot!
-2. ✔ troque o `teu nome` para seu nome no discord!
-3. ⚠ troque o `teu id` para seu ID do discord!
-4. ✔ troque o `t.` para um prefix aleatorio!
+1. ⚠ Troque o `xxxx` para o token do seu bot!
+2. ⚠ Troque o `teu id` para seu ID do discord!
+3. ✔ Troque o `teu nome` para seu nome no discord!
+4. ✔ Troque o `t.` para um prefix aleatorio!
 
 ```json
 {
@@ -86,11 +86,31 @@ Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 
 ![ ](https://cdn.discordapp.com/attachments/785867516018294784/785868787077480469/unknown.png)
 
-2. utilizando o combo de `ctrl + '` você ira abrir o Terminal!
+2. fassa download do Bot como .zip ou melhor aperte no botão chamado: `Download ZIP`
 
-3. utilize no terminal `npm i discord.js --save` para instalar a biblioteca do discord.js!
+![ ](https://cdn.discordapp.com/attachments/777974696910127115/786258100789051452/unknown.png)
 
-4. digite no terminal `node .` quando acabar!
+3. vá até usa area de trabalho e estraia todos os arquivos da sua copia *(`sua copia` o Bot)* *(você presisara instalar o RAR em seu pc)*
+
+![ ](https://cdn.discordapp.com/attachments/777974696910127115/786259410996559922/unknown.png)
+
+4. abra seu vscode
+
+5. localize o botão `Arquivo`
+
+![ ](https://cdn.discordapp.com/attachments/777974696910127115/786260087538319400/unknown.png)
+
+Mas aperte no botão chamado: `Abrir pasta...`
+
+![ ](https://cdn.discordapp.com/attachments/777974696910127115/786260312063868968/unknown.png)
+
+6. ache a pasta com o nome `Todyynho-Junior-master` e selecione ela
+
+7. utilizando o combo de `ctrl + '` no vscode você ira abrir um Terminal!
+
+8. utilize no terminal `npm i discord.js --save` para instalar a biblioteca do discord.js!
+
+9. digite no terminal `node .` quando acabar!
 
 *caso tenha duvidas veja o [vidio do PR](https://www.youtube.com/watch?v=KYnXhtyqQRQ) para pegar base disso e colocar em min para me ligar :>*
 
@@ -99,7 +119,9 @@ Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 
 *passos para me ligar! pelo replit*
 
-1. aperte no botão RUN e espere todos os downloads terminarem!
+1. aperte no botão RUN e espere todos os downloads terminarem! claro depois de configurar o arquivo `config.json.exemple`
+
+2. divirta-se!
 
 ## 📑 como usar os comandos?
 1. utilize `t.help` para saber mais sobre comandos ou etc
@@ -107,9 +129,9 @@ Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 ![ ](https://cdn.discordapp.com/attachments/727984820269088798/785886090178723881/unknown.png)
 
 ## 🤝 Contribuidores
-> infelizmente um! :D
+> Todos que são Contribuidores!
 
-1. Focsi
+1. Focsi *(A primeira)*
 
 ## 📝 Créditos
 
