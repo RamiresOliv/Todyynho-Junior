@@ -11,7 +11,7 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord  Brasileir
 ## © Licença
 > **Porfavor leia a Licença para saber oque pode fazer e oque não pode**
 
- **Este repositorio á uma licença [MIT](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)**
+ **Este repositorio á uma [licença MIT](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)**
 
 ## 🔸 Requisitos...
 > requisitos para saber see você pode ou tem condiçoes para o Todyynho
