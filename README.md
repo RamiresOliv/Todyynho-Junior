@@ -96,7 +96,7 @@ Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 
 ## 🎬 ligando o bot! (pelo Replit)
 
-depois de concluir o passo de mudar o nome do `config.json.exemple` e também modificar o `config.json.exemple` você pode proceguir caso não voute para parte [1 corfiguração](https://github.com/gabrielramires/Todyynho-Junior#%EF%B8%8F-configura%C3%A7%C3%A3o) e [2 iniciando dentro do `config.json`](https://github.com/gabrielramires/Todyynho-Junior#-como-come%C3%A7ar)
+depois de concluir o passo de mudar o nome do `config.json.exemple` e também modificar o `config.json.exemple` você pode proceguir caso não voute para parte [1 corfiguração](https://github.com/gabrielramires/Todyynho-Junior#-como-come%C3%A7ar) e [2 iniciando dentro do `config.json`](https://github.com/gabrielramires/Todyynho-Junior#%EF%B8%8F-configura%C3%A7%C3%A3o)
 
 *passos para me ligar! pelo replit*
 
