@@ -2,6 +2,7 @@
 
 > Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord  Brasileiro 👌
 
+[![](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/gabrielramires/Todyynho-Junior)
 
 ![ ](https://cdn.discordapp.com/attachments/727984820269088798/785610899498336296/unknown.png)
 
