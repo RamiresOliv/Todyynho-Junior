@@ -58,7 +58,6 @@ Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 ![ ](https://cdn.discordapp.com/attachments/776428610096857098/785617396575895583/unknown.png)
 
 ⚠ **Atanção!**
-
 **antes de tudo** troque ou copie o nome da file `config.json.exemple` para `config.json` depois disso continue!
 
 ## 🔏 iniciação dentro do config.json
@@ -79,6 +78,7 @@ Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 ```
 
 ## 🎬 ligando o bot! (pelo vscode)
+> depois de concluir o passo de mudar o nome do `config.json.exemple` e também modificar o `config.json.exemple` você pode proceguir caso não voute para parte **[1 corfiguração](https://github.com/gabrielramires/Todyynho-Junior#-como-come%C3%A7ar)** e **[2 iniciando dentro do `config.json`](https://github.com/gabrielramires/Todyynho-Junior#%EF%B8%8F-configura%C3%A7%C3%A3o)**.
 
 *passos para me ligar! pelo vscode*
 
@@ -95,8 +95,7 @@ Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 *caso tenha duvidas veja o [vidio do PR](https://www.youtube.com/watch?v=KYnXhtyqQRQ) para pegar base disso e colocar em min para me ligar :>*
 
 ## 🎬 ligando o bot! (pelo Replit)
-
-depois de concluir o passo de mudar o nome do `config.json.exemple` e também modificar o `config.json.exemple` você pode proceguir caso não voute para parte [1 corfiguração](https://github.com/gabrielramires/Todyynho-Junior#-como-come%C3%A7ar) e [2 iniciando dentro do `config.json`](https://github.com/gabrielramires/Todyynho-Junior#%EF%B8%8F-configura%C3%A7%C3%A3o)
+> depois de concluir o passo de mudar o nome do `config.json.exemple` e também modificar o `config.json.exemple` você pode proceguir caso não voute para parte **[1 corfiguração](https://github.com/gabrielramires/Todyynho-Junior#-como-come%C3%A7ar)** e **[2 iniciando dentro do `config.json`](https://github.com/gabrielramires/Todyynho-Junior#%EF%B8%8F-configura%C3%A7%C3%A3o)**.
 
 *passos para me ligar! pelo replit*
 
