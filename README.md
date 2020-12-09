@@ -57,7 +57,7 @@ Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 
 ![ ](https://cdn.discordapp.com/attachments/776428610096857098/785617396575895583/unknown.png)
 
-## ⚠ **Aviso!**
+⚠ **Atanção!**
 
 **antes de tudo** troque ou copie o nome da file `config.json.exemple` para `config.json` depois disso continue!
 
