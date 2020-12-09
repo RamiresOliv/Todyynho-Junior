@@ -90,9 +90,13 @@ Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 
 3. utilize no terminal `npm i discord.js --save` para instalar a biblioteca do discord.js!
 
+4. digite no terminal `node .` quando acabar!
+
 *caso tenha duvidas veja o [vidio do PR](https://www.youtube.com/watch?v=KYnXhtyqQRQ) para pegar base disso e colocar em min para me ligar :>*
 
 ## 🎬 ligando o bot! (pelo Replit)
+
+depois de concluir o passo de mudar o nome do `config.json.exemple` e também modificar o `config.json.exemple` você pode proceguir caso não voute para parte [1 corfiguração](https://github.com/gabrielramires/Todyynho-Junior#%EF%B8%8F-configura%C3%A7%C3%A3o) e [2 iniciando dentro do `config.json`](https://github.com/gabrielramires/Todyynho-Junior#-como-come%C3%A7ar)
 
 *passos para me ligar! pelo replit*
 
