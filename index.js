@@ -44,4 +44,10 @@ client.on('message', message => {
  }  
  });
 
+bot.on('ready', () => {
+console.log(`I'm online and now I'm on ${client.guilds.cache.size} servers, ${client.users.cache.size} users and ${client.channels.cache.size} channels.
+Application name logged ${client.user.tag}!
+`)
+});
+
 client.login(config.token)
