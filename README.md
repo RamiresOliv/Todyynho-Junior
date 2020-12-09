@@ -1,4 +1,4 @@
-# 🎄 Toddynho Junior® ☕
+# 🎄 Toddynho Junior © ☕
 Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord  Brasileiro 👌
 
 [![ ](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/gabrielramires/Todyynho-Junior)
@@ -8,10 +8,10 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord  Brasileir
 # 🤖 Todyynho Junior (Discord Bot de Diverção)
 > O Todyynho Junior foi criado do ZERO em [discord.js](https://discordjs.guide) mas tenho o orgulho de dizer que o Todyynho Junior é minha  maior alegria :)
 
-## Licença
-> Porfavor leia a Licença para saber oque pode fazer e oque não pode
+## © Licença
+> **Porfavor leia a Licença para saber oque pode fazer e oque não pode**
 
-Este repositorio á uma licença [MIT](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)
+ **Este repositorio á uma licença [MIT](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)**
 
 ## 🔸 Requisitos...
 > requisitos para saber see você pode ou tem condiçoes para o Todyynho
