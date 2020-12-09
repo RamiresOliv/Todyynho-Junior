@@ -6,7 +6,13 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 [![ ](https://cdn.discordapp.com/attachments/777974696910127115/786266177173192714/unknown.png)](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599)
 
 # 🤖 Todyynho Junior (Discord Bot de Diverção)
-> O Todyynho Junior foi criado do ZERO em [discord.js](https://discordjs.guide) mas tenho o orgulho de dizer que o Todyynho Junior é minha  maior alegria :)
+> O Todyynho Junior foi criado em puro [Java Script](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) e também com o [node.js](https://nodejs.org/en/) mas tenho o orgulho de dizer que o Todyynho Junior é minha  maior criação :)
+
+* Recursos utilizados até hoje para fazer o Bot
+
+1. vscode
+2. node .
+3. Java Script
 
 ## © Licença
 > **Porfavor leia a Licença para saber oque pode fazer e oque não pode**
