@@ -1,5 +1,5 @@
 # 🎄 Toddynho Junior © ☕
-Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord  Brasileiro 👌
+Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro 👌
 
 [![ ](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/gabrielramires/Todyynho-Junior)
 
@@ -49,6 +49,8 @@ Bom o [Todyynho Junior](https://discord.com/oauth2/authorize?client_id=708843221
 > **primeiro veja estes links de ajuda!**
 
 Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+
+Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 
 ## ⚙️ **Configuração**
 > modificando  o nome do `config.json.exemple` dentro da pasta `Config`.
