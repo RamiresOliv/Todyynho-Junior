@@ -3,7 +3,7 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 
 [![ ](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/gabrielramires/Todyynho-Junior)
 
-![ ](https://cdn.discordapp.com/attachments/727984820269088798/785610899498336296/unknown.png)
+[![ ](https://cdn.discordapp.com/attachments/777974696910127115/786266177173192714/unknown.png)](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599)
 
 # 🤖 Todyynho Junior (Discord Bot de Diverção)
 > O Todyynho Junior foi criado do ZERO em [discord.js](https://discordjs.guide) mas tenho o orgulho de dizer que o Todyynho Junior é minha  maior alegria :)
@@ -33,10 +33,10 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 
 ## 🔌 Mas oque é esse Todyynho Juinior?
 
-Bom o [Todyynho Junior](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599) é um bot do Discord de moderação ou diverção você pode se divertir muito usando ele ou os comandos dele ele foi criado para te ajudar a se divertir e mover seu servidor! :)
+* Bom o [Todyynho Junior](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599) é um bot do Discord de moderação ou diverção você pode se divertir muito usando ele ou os comandos dele ele foi criado para te ajudar a se divertir e mover seu servidor! :)
 
 ## 📰 **Oque tem de novo no bot?**
->por exemplo remover o bem vindo ou adicionar o bem vindo e etc os que vão ter ficara com ✅ os que não vira ficara com ❌
+> por exemplo remover o bem vindo ou adicionar o bem vindo e etc os que vão ter ficara com ✅ os que não vira ficara com ❌
 
 1. ✅ virá todos os comandos do bot!
 2. ✅ virá atualizações aqui!
@@ -48,20 +48,20 @@ Bom o [Todyynho Junior](https://discord.com/oauth2/authorize?client_id=708843221
 # 🚀 **Como começar?**
 > **primeiro veja estes links de ajuda!**
 
-Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+* Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 
-Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
+* Como criar um Bot **[Guide](https://www.youtube.com/watch?v=KYnXhtyqQRQ)**
 
 # ⚙️ **Configuração**
 
-modificando  o nome do `config.json.exemple` dentro da pasta `Config`.
+* modificando  o nome do `config.json.exemple` dentro da pasta `Config`.
 
 ![ ](https://cdn.discordapp.com/attachments/776428610096857098/785617396575895583/unknown.png)
 
 ⚠ **Atanção!**
 **antes de tudo** troque ou copie o nome da file `config.json.exemple` para `config.json` depois disso continue!
 
-Colocarei ⚠ para mudar imediatamente e  ✔ que não presisa mudar
+* Colocarei ⚠ para mudar imediatamente e  ✔ que não presisa mudar
 
 1. ⚠ Troque o `xxxx` para o token do seu bot!
 2. ⚠ Troque o `teu id` para seu ID do discord!
@@ -145,11 +145,11 @@ Mas aperte no botão chamado: `Abrir pasta...`
 
 ® Todyynho Junior tem todos os direitos reservado 
 
-para saber se o Todyynho que percorre por ai é o real veja o descriminador
+* para saber se o Todyynho que percorre por ai é o real veja o descriminador
 
 ![ ](https://cdn.discordapp.com/attachments/709833617370513498/785863070969757746/unknown.png)
 
-caso esteja como nessa foto o descriminador `#4542` é o verdadeiro!
+* caso esteja como nessa foto o descriminador `#4542` é o verdadeiro!
 
 # 🎄 Feliz Natal! 🎄
 
