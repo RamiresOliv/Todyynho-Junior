@@ -41,5 +41,7 @@ client.on('message', message => {
  } catch (err) {
   console.error(`Um erro foi detectado!` 
   + err);
- } 
-});
+ }  
+ });
+
+client.login(config.token)
