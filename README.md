@@ -88,29 +88,29 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 
 *passos para me ligar! pelo vscode*
 
-1. você vai entrar no site do [Node.js](https://nodejs.org/en/) e faça download como a foto a baixo mostra instalar a  versão LTS
+1. você vai entrar no site do [Node.js](https://nodejs.org/en/) e faça download como a foto a baixo mostra instalar a  versão LTS.
 
 ![ ](https://cdn.discordapp.com/attachments/785867516018294784/785868787077480469/unknown.png)
 
-2. fassa download do Bot como .zip ou melhor aperte no botão Download ZIP 
+2. fassa download do Bot como ZIP ou melhor aperte no botão Download ZIP.
 
 ![ ](https://cdn.discordapp.com/attachments/777974696910127115/786258100789051452/unknown.png)
 
-3. vá até usa area de trabalho e estraia todos os arquivos da sua copia *(`sua copia` o Bot)* *(você presisara instalar o RAR em seu pc)*
+3. vá até usa area de trabalho e estraia todos os arquivos da sua copia. *(`sua copia` o Bot)* *(você presisara instalar o RAR em seu pc)*
 
 ![ ](https://cdn.discordapp.com/attachments/777974696910127115/786259410996559922/unknown.png)
 
 4. abra seu vscode agora vamos usar ele! 
 
-5. localize o botão `Arquivo`
+5. localize o botão `Arquivo`.
 
 ![ ](https://cdn.discordapp.com/attachments/777974696910127115/786260087538319400/unknown.png)
 
-6. aperte no botão chamado: `Abrir Pasta...`
+6. aperte no botão chamado: `Abrir Pasta...`.
 
 ![ ](https://cdn.discordapp.com/attachments/777974696910127115/786260312063868968/unknown.png)
 
-7. ache a pasta com o nome `Todyynho-Junior-master` e selecione ela
+7. ache a pasta com o nome `Todyynho-Junior-master` e selecione ela.
 
 8. utilizando o combo de `ctrl + '` no vscode você ira abrir um Terminal!
 
@@ -126,6 +126,10 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 *passos para me ligar! pelo replit*
 
 1. aperte para copiar o link que esta ali. 
+
+![ ](https://cdn.discordapp.com/attachments/777974696910127115/786276860006891610/unknown.png)
+
+2. Cole o link no local como esta na foto.
 
 ![ ](https://cdn.discordapp.com/attachments/777974696910127115/786277344704725002/unknown.png)
 
