@@ -143,7 +143,7 @@ Sou o Toddynho Junior um Bot de DiversÃ£o/Adiministrador do Discord Brasileiro ð
 
 1. [Discloud](https://discloudbot.com/)
 2. [Heroku](https://dashboard.heroku.com/)
-3. [UpTimeroBot](https://uptimerobot.com/)
+3. [UpTimeRobot](https://uptimerobot.com/)
 
 ![ ](https://cdn.discordapp.com/attachments/776428610096857098/786610525685284905/unknown.png)
 
