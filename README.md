@@ -96,7 +96,7 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 
 ![ ](https://cdn.discordapp.com/attachments/777974696910127115/786258100789051452/unknown.png)
 
-3. vá até usa area de trabalho e estraia todos os arquivos da sua copia. *(`sua copia` o Bot)* *(você presisara instalar o RAR em seu pc)*
+3. vá até sua area de trabalho e estraia todos os arquivos da sua copia. *(`sua copia` o Bot)* *(você presisara instalar o RAR em seu pc)*
 
 ![ ](https://cdn.discordapp.com/attachments/777974696910127115/786259410996559922/unknown.png)
 
