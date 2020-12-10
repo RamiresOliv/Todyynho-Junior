@@ -84,7 +84,7 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 ```
 
 ## 🎬 ligando o bot! (pelo vscode)
-> depois de concluir o passo de mudar o nome do `config.json.exemple` e também modificar o `config.json.exemple` você pode prosseguir caso não voute para parte **[1 corfiguração](https://github.com/gabrielramires/Todyynho-Junior#-como-come%C3%A7ar)**.
+> depois de concluir o passo de mudar o nome do `config.json.exemple` e também modificar o `config.json.exemple` você pode prosseguir caso não voute para parte **[1 corfiguração](https://github.com/gabrielramires/Todyynho-Junior#%EF%B8%8F-configura%C3%A7%C3%A3o)**.
 
 *passos para me ligar! pelo vscode*
 
@@ -121,7 +121,7 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 *caso tenha duvidas veja o [vidio do PR](https://www.youtube.com/watch?v=KYnXhtyqQRQ) para pegar base disso e colocar em min para me ligar :>*
 
 ## 🎬 ligando o bot! (pelo Replit)
-> depois de concluir o passo de mudar o nome do `config.json.exemple` e também modificar o `config.json.exemple` você pode prosseguir caso não voute para parte **[1 corfiguração](https://github.com/gabrielramires/Todyynho-Junior#-como-come%C3%A7ar)**.
+> depois de concluir o passo de mudar o nome do `config.json.exemple` e também modificar o `config.json.exemple` você pode prosseguir caso não voute para parte **[1 corfiguração](https://github.com/gabrielramires/Todyynho-Junior#%EF%B8%8F-configura%C3%A7%C3%A3o)**.
 
 *passos para me ligar! pelo replit*
 
