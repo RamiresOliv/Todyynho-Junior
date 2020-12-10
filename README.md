@@ -1,5 +1,5 @@
 #  🎄 Toddynho Junior © ☕
-Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro 👌
+Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro 👌
 
 [![ ](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/gabrielramires/Todyynho-Junior) [![ ](https://camo.githubusercontent.com/5fab2edf3816ef9fb3ebcaf6e613fa7b40ff7652ec69e5f6e7f695aa24bf5ce6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d626c75652e737667)](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)
 
@@ -37,7 +37,7 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 
 **[Site para me adicionar](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599)**
 
-## 🔌 Mas oque é esse Todyynho Juinior?
+## 💎 Mas o que é esse Todyynho Juinior?
 
 * Bom o [Todyynho Junior](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599) é um bot do Discord de moderação ou diverção, você pode se divertir muito usando ele ou os comandos dele, ele foi criado para te ajudar a divertir os seus membros e movimentar seu servidor! :)
 
@@ -138,6 +138,29 @@ Sou  o Toddynho Junior um Bot  de Diversão/Adiministrador do Discord Brasileiro
 4. aperte no botão RUN e espere todos os downloads terminarem! claro depois de configurar o arquivo `config.json.exemple`.
 
 5. divirta-se!!
+
+## 🔌 Suportes para hosts
+
+1. [Discloud](https://discloudbot.com/)
+2. [Heroku](https://dashboard.heroku.com/)
+3. [UpTimeroBot](https://uptimerobot.com/)
+
+![ ](https://cdn.discordapp.com/attachments/776428610096857098/786610525685284905/unknown.png)
+
+* OBS: caso queira usar o `Heroku` ou o `UpTimeroBot` cole isso na file `index.js` como a foto a cima a baixo tera o que deve ser colado
+
+```javascript
+const express = require('express');
+
+const app = express();
+app.get("/", (request, response) => {
+  const ping = new Date();
+  ping.setHours(ping.getHours() - 3);
+  console.log(`Ping recebido às ${ping.getUTCHours()}:${ping.getUTCMinutes()}:${ping.getUTCSeconds()}`);
+  response.sendStatus(200);
+});
+app.listen(process.env.PORT);
+```
 
 ## 📑 como usar os comandos?
 
