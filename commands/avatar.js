@@ -1,5 +1,5 @@
 const Discord = require("discord.js"); 
-const config = require("../Config/config.json")
+const config_user = require("../Config/user.json")
 
 exports.run = async (client, message, args) => {
 
@@ -17,7 +17,7 @@ if(user.id === message.author.id) {
   .setFooter(`Autor: ${message.author.tag}`, message.author.displayAvatarURL({format: "png"}));
  message.channel.send(`${message.author}`, embed); 
 
-} else if (user.id === config.botid) {
+} else if (user.id === config_user.botid) {
   
   let embed = new Discord.MessageEmbed()
     .setColor(`RANDOM`)

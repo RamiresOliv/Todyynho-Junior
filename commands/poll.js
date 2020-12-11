@@ -41,11 +41,13 @@ exports.run = (client, message, args) => {
        .setTitle("Polltime")
        .setDescription(`${message.author.username} iniciou uma votação! ` + "<a:biximfofo:764138279464599562>")
        .addField("asunto", asunto)
-       .addField("utilize", `para sim 👍 / para não 👎`)
+       .addField("utilize", `para sim <:tickYes:764151584145408023> /  para não <:tickNo:764151560368291860>`)
 
         message.channel.send(embed).then(m => {
-            m.react("👍");
-            m.react("👎");
+            m.react("764151584145408023")
+            .then(m2 => {m2.react("764151560368291860");
+          });
             message.delete()
            })
 }
+   

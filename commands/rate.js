@@ -1,5 +1,5 @@
 const Discord = require("discord.js")
-const config = require("../Config/config.json")
+const config_user = require("../Config/user.json")
  
 module.exports.run = async (bot, message, args) => {
 
@@ -21,11 +21,12 @@ if(!ratus) return message.channel.send(embed2);
 let rates = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"];
 
 let result = Math.floor((Math.random() * rates.length));
-
-if(ratus.user.id === message.author.id) {
-  return message.channel.send(`**${message.author.username}**, Eu te daria ${result}/10 <:blz:725142145526399141>`);
-} else if (ratus.id === config.botid) {
-  return message.channel.send(`**${message.author.username}**, Eu daria para min mesmo 99999999999/10 <:blz:725142145526399141>`)
+if (message.content.includes("me")) {
+  message.channel.send(`**__${message.author.username}__**, Eu te daria ${result}/10 <:blz:725142145526399141>`)
+} else if(ratus.user.id === message.author.id) {
+  return message.channel.send(`**__${message.author.username}__**, Eu te daria ${result}/10 <:blz:725142145526399141>`);
+} else if (ratus.id === config_user.botid) {
+  return message.channel.send(`**__${message.author.username}__**, Eu daria para min mesmo 99999999999/10 <:blz:725142145526399141>`)
 } else return message.channel.send(`Eu dou **__${ratus.user.username}__** ${result}/10 <:blz:725142145526399141>`);
 
 }

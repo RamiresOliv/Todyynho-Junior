@@ -5,6 +5,16 @@ exports.run = async (client, message, args) => {
 
   const palavra_chave = args.join(' ');
 
+  let embed3 = new Discord.MessageEmbed()
+  .setColor("#fff200")
+  .setTitle(`:warning: **ERROR**`)
+  .setDescription(`<:xmark:314349398824058880> Oops ${message.author.username} porfavor escolha um deles.
+   \`\`\`fix
+   ${config.prefix}help diversão1
+   ${config.prefix}help diversão2\`\`\`
+   
+   ERROR: o comando t.help diversão não foi definido`)
+
   let embed = new Discord.MessageEmbed() 
     .setColor('#ff0d00')
     .setTitle(`pediu ajuda?`) 
@@ -26,6 +36,9 @@ ${config.prefix}help outros**
 
 🆙 **sobre min|** gostaria de ver mais?
 [visitar](https://discord.bots.gg/bots/708843221903605780)
+
+🛠 **Meu Git Hub|** lá esta eu inteiro! :D
+[visitar](https://github.com/gabrielramires/Todyynho-Junior)
 
 ♻️ **Atualizações|** nos temos no sistema:
 
@@ -95,6 +108,9 @@ ${config.prefix}help outros**
 
        "t.gato"
        //que gato em?...
+
+       "t.rr"
+       //brincadeira de roleta russa vamos ver se dispara!
        
        2020 © ${client.user.username}.\`\`\``);
       }else if (message.content.includes("diversão2")) {
@@ -119,17 +135,44 @@ ${config.prefix}help outros**
        "t.lenny"
        //carinha 2 :)
 
-       ""
-       //
+       "t.leveltop (@membro)"
+       //vamo ve se essa pessoa é top mesmo!
 
-       ""
-       //
+       "t.memes"
+       //memes de qualidade... só q naum ;-
 
-       ""
-       //
+       "t.mina"
+       //uia q mina..
 
-       ""
-       //
+       "t.nutela"
+       //hmm nutela..
+
+       "t.parabéns (@membro)"
+       //mande um parabéns para ele...
+
+       "t.piada"
+       //uma piada uia
+
+       "t.rate {@member}"
+       //ta vou avaliar esse usuário
+
+       "t.reverse (message)"
+       //᠎ ...aditrevne megasnem
+
+       "t.ship (@member1) (@member2)"
+       //vamos ver se eles são pra namorar
+
+       "t.shrug"
+       //outra carinha
+
+       "t.tableflip"
+       //outra carinha... :P
+
+       "t.todyynho"
+       //meus todyynhos :O, sim cada segundo eu tenho mais ou menos todyynhos...
+
+       "t.txtflip (message)"
+       //pǝɯousʇɹɐção
        
         2020 © ${client.user.username}.\`\`\``)
   
@@ -161,6 +204,21 @@ ${config.prefix}help outros**
 
         "t.embed (message)"
         //crie sua propria embed
+
+        "t.lock"
+        //feixa o canal que o comando foi usado
+
+        "t.unlock"
+        //abre o canal que o comando foi usado
+
+        "t.id (@membro)"
+        //pegue ID dos membros mais rapido
+
+        "t.poll (message)"
+        //inicie uma votação!
+
+        "t.slowmode (segundos)" (para remover o slowmode use t.slowmode 0)
+        //ele muda o tempo que as pessoas podem falar no canal que o comando foi usado
         
         2020 © ${client.user.username}.\`\`\``)
   
@@ -214,16 +272,16 @@ ${config.prefix}help outros**
 
         "t.infoconf"
         //minhas infos pessoais 
+
+        "t.uptime"
+        //o tempo que eu acordei!
+
+        "t.github"
+        //meu proprio GitHub!!
         
         2020 © ${client.user.username}.\`\`\``)
       } else if(message.content.includes("diversão")) {
-        return message.channel.send(`${message.author}porfavor escolha um deles.
-        \`\`\`fix
-       ${config.prefix}help diversão1
-       ${config.prefix}help diversão2\`\`\`
-       
-       ERROR: \`o comando t.help diversão não foi definido com numeros\`
-       `); 
+        return message.channel.send(message.author, embed3); 
     } else {
       message.channel.send(`Ei ${message.author} infelizmente \`${palavra_chave}\` não é uma palavra chave certa porfavor tente novamente...`)
     }

@@ -1,10 +1,10 @@
  const Discord = require("discord.js")
- const config = require("../Config/config.json")
+ const config_user = require("../Config/user.json")
 
  exports.run = async (client, message, args) => {
 
 const author = message.author
-       //!8ball question
+
 
        const embed = new Discord.MessageEmbed()
        .setTitle("infos pessoais do bot")
@@ -15,7 +15,7 @@ const author = message.author
        .addField("Token da API", `||${config.token}||`, true)
        .addField("Status da API", `Online Stable`, true)
        
-       if (author.id === config.owner1) {
+       if (author.id === config_user.userid ) {
          message.channel.send(`${author} mihas informações foi para seu PV`)
          author.send(message.author, embed)
        

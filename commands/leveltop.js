@@ -2,8 +2,6 @@ const Discord = require('discord.js');
 
 exports.run = async (client, message, args) => {
 
-const random = rn(options);
-
 var list = [
   '❗**o numero de top dele é 10% hmm ele parece que ele n é top**',
   '❗**o numero de top dele é 5% hmm ele parece que ele n é top**',
@@ -47,8 +45,7 @@ let avatar = message.author.displayAvatarURL({format: 'png'});
         .setColor('#ff0d00')
         .setDescription(`**caramba! sera q ${user} é top??**
 vamos fazer o teste... se tiver a cima de 10 ele é top se tiver entre o 20 e 30 ele é top intermediário! e se ele for em 40 a 50 ele é MUITO TOP mas depende se a pessoa mencionada é top...
-
-${random}%`)
+${rand}`)
 
 //"https://images.emojiterra.com/twitter/v13.0/512px/1f60e.png"
 
