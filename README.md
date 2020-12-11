@@ -195,4 +195,3 @@ app.listen(process.env.PORT);
 * caso esteja como nessa foto o descriminador `#4542` é o verdadeiro!
 
 # 🎄 Feliz Natal! 🎄
-
