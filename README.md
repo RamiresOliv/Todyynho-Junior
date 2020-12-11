@@ -3,6 +3,10 @@ Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro �
 
 [![ ](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/gabrielramires/Todyynho-Junior) [![ ](https://camo.githubusercontent.com/5fab2edf3816ef9fb3ebcaf6e613fa7b40ff7652ec69e5f6e7f695aa24bf5ce6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d626c75652e737667)](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)
 
+[![ ](https://discord.com/assets/9f358f466473586417baee7bacfba5ca.svg)](https://github.com/gabrielramires/Todyynho-Junior/tree/master/commands)
+
+**clique na file a cima para ir para meus comandos!**
+
 [![ ](https://cdn.discordapp.com/attachments/777974696910127115/786266177173192714/unknown.png)](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599) 
 
 # 🤖 Todyynho Junior (Discord Bot de Diverção)
