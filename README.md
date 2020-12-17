@@ -4,6 +4,7 @@ Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro �
 </p>
 <p align="center">
 <a href="https://github.com/gabrielramires/Todyynho-Junior"><img src="https://github.com/ntkme/github-buttons/workflows/build/badge.svg"></a>
+<a href="https://gabrielramiresdeol.wixsite.com/todyynhojunior"><img src="https://img.shields.io/badge/Website-ver-fc030b.svg"></a>
 <a href="https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0394fc.svg"></a>
 </p>
 <p align="center">
@@ -15,21 +16,47 @@ Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro �
 </p>
 <p align="center">
 
-## 🤖 <sub>Emulators used</sub>
-<details>
-<summary>Click to reveal</summary>
-
-This list it not always up to date
- 
- ohkgohpfgkkkkh~pfgk´fgplhf´ghkkdfgçkl´khkmkfdgpokfpo´fgkhpdfkjh
- 
- <details>
-
 [![ ](https://discord.com/assets/9f358f466473586417baee7bacfba5ca.svg)](https://github.com/gabrielramires/Todyynho-Junior/tree/master/commands)
 
 **clique na file a cima para ir para meus comandos!**
 
 [![ ](https://cdn.discordapp.com/attachments/777974696910127115/786266177173192714/unknown.png)](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599) 
+
+## © Licença
+
+**Este repositorio á uma [licença MIT](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)**
+
+<details>
+<summary>Click para revelar</summary>
+ 
+ 
+ MIT License
+```
+Copyright (c) 2020 Gabriel Ramires de Oliveira
+
+A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste software e arquivos de documentação associados (o "Software"), para lidar
+no Software sem restrição, incluindo, sem limitação, os direitos
+para usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e / ou vender
+cópias do Software, e para permitir as pessoas a quem o Software é
+fornecido para fazê-lo, sujeito às seguintes condições:
+
+O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todos
+cópias ou partes substanciais do Software.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
+IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO,
+ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA E NÃO VIOLAÇÃO. EM NENHUMA HIPÓTESE O
+AUTORES OU TITULARES DE DIREITOS AUTORAIS SÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTROS
+RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, DELITO OU DE OUTRA FORMA, DECORRENTE DE,
+FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO
+PROGRAMAS.
+@gabrielramires
+Confirmar novo arquivo
+Resumo do compromisso
+```
+
+</details>
 
 # 🤖 Todyynho Junior (Discord Bot de Diverção)
 > O Todyynho Junior foi criado em puro [Java Script](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) e também com o [node.js](https://nodejs.org/en/) mas tenho o orgulho de dizer que o Todyynho Junior é minha  maior criação :)
@@ -39,11 +66,6 @@ This list it not always up to date
 1. vscode
 2. node.js
 3. Java Script
-
-## © Licença
-> **Porfavor leia a Licença para saber oque pode fazer e oque não pode**
-
- **Este repositorio á uma [licença MIT](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)**
 
 ## 🔸 Requisitos...
 > requisitos para saber see você pode ou tem condiçoes para o Todyynho
