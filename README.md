@@ -1,3 +1,13 @@
+<h1 align="center"> 🎄 Toddynho Junior © ☕ </h1>
+Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro 👌
+
+</p>
+<p align="center">
+<a href="https://github.com/gabrielramires/Todyynho-Junior"><img src="https://github.com/ntkme/github-buttons/workflows/build/badge.svg"></a>
+<a href="https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0394fc.svg"></a>
+</p>
+<p align="center">
+
 </p>
 <p align="center">
 <a href="README_EN.md"><img src="https://img.shields.io/badge/🌐_Readme_📖-Read_In_English-03ebfc.svg"></a>
@@ -5,11 +15,13 @@
 </p>
 <p align="center">
 
+## 🤖 <sub>Emulators used</sub>
+<details>
+<summary>Click to reveal</summary>
 
-#  🎄 Toddynho Junior © ☕
-Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro 👌
-
-[![ ](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/gabrielramires/Todyynho-Junior) [![ ](https://camo.githubusercontent.com/5fab2edf3816ef9fb3ebcaf6e613fa7b40ff7652ec69e5f6e7f695aa24bf5ce6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d626c75652e737667)](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)
+This list it not always up to date
+ 
+ ohkgohpfgkkkkh~pfgk´fgplhf´ghkkdfgçkl´khkmkfdgpokfpo´fgkhpdfkjh
 
 [![ ](https://discord.com/assets/9f358f466473586417baee7bacfba5ca.svg)](https://github.com/gabrielramires/Todyynho-Junior/tree/master/commands)
 
