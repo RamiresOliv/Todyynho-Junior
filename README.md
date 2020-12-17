@@ -22,6 +22,8 @@ Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro �
 This list it not always up to date
  
  ohkgohpfgkkkkh~pfgk´fgplhf´ghkkdfgçkl´khkmkfdgpokfpo´fgkhpdfkjh
+ 
+ <details>
 
 [![ ](https://discord.com/assets/9f358f466473586417baee7bacfba5ca.svg)](https://github.com/gabrielramires/Todyynho-Junior/tree/master/commands)
 
