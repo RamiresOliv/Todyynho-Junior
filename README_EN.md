@@ -40,7 +40,7 @@
 **This repository is a [MIT license](https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE)**
 
 <details>
-<summary>Click para revelar</summary>
+<summary>Click to reveal</summary>
  
  
  MIT License
