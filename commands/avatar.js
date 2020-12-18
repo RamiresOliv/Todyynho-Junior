@@ -12,7 +12,7 @@ if(user.id === message.author.id) {
   let embed = new Discord.MessageEmbed() 
   .setColor(`RANDOM`) 
   .setTitle(`Avatar de ${user.username}`) 
-  .setDescription(`🖼 quer fazer dowled de seu avatar? então click [aqui!](${avatar})`)
+  .setDescription(`🖼 quer fazer download de seu avatar? então click [aqui!](${avatar})`)
   .setImage(avatar) 
   .setFooter(`Autor: ${message.author.tag}`, message.author.displayAvatarURL({format: "png"}));
  message.channel.send(`${message.author}`, embed); 
@@ -23,7 +23,7 @@ if(user.id === message.author.id) {
     .setColor(`RANDOM`)
     .setTitle(`Avatar de ${user.username}`)
     .setImage(avatar)
-    .setFooter(`Autor: ${message.author.tag}`, message.author.displayAvatarURL({ format: "png" }));
+    .setFooter(`Autor: ${message.author.tag}`, message.author.displayAvatarURL({ dynamic: true, format: "png", size: 1024 }));
   message.channel.send(`${message.author}`, embed);
   
 } else {
@@ -31,7 +31,7 @@ if(user.id === message.author.id) {
       let embed = new Discord.MessageEmbed() 
       .setColor(`RANDOM`) 
       .setTitle(`Avatar de ${user.username}`) 
-      .setDescription(`🖼 quer fazer dowled do avatar dele(a)? então click [aqui!](${avatar})`)
+      .setDescription(`🖼 quer fazer download do avatar de ${user.username}? então click [aqui!](${avatar})`)
       .setImage(avatar) 
       .setFooter(`Autor: ${message.author.tag}`, message.author.displayAvatarURL({format: "png"}));
      message.channel.send(`${message.author}`, embed); 

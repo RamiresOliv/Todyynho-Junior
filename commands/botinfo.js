@@ -9,8 +9,7 @@ exports.run = async (client, message, args) => {
   totalSeconds %= 3600;
   let minutes = Math.floor(totalSeconds / 60);
   let seconds = totalSeconds % 60;
-let uptime = ` ${days.toFixed()} \`days\` ${hours.toFixed()} \`hours\` ${minutes.toFixed()} \`minutes\` ${seconds.toFixed()} \`seconds\``;
-let bicon = client.user.displayAvatarURL;
+  let uptime = ` ${days.toFixed()} \`days\` ${hours.toFixed()} \`hours\` ${minutes.toFixed()} \`minutes\` ${seconds.toFixed()} \`seconds\``;
 
 const version = "v11.3.2"
 const prefix = `\`${config.prefix}\``
@@ -50,7 +49,7 @@ const status = {
         .addField("I woke up makes", `${uptime}`)
         .setFooter(`2020 © ${client.user.username}.`)
         .setTimestamp()
-        .setThumbnail(bicon)
+
 message.channel.send(`${message.author}`, embed);
 };
 

@@ -61,17 +61,17 @@ ${config.prefix}help outros**
     if(!args[0]){
  return message.channel.send(embed); 
     } else if (message.content.includes("diversão1")) {
-      message.channel.send(`${message.author} porfavor verifique seu PV!`)
-       return message.author.send(`\`\`\`js
+      message.channel.send(`${message.author}
+       \`\`\`js
         ♾ Olá ${message.author.username} eu sou todyynho zuero kkk mas bom essa é a parte 1 dos comandos de diverção! 😁 🥳
 
         definições 
-        presiso = \`()\`
-        opcional = \`{}\`
+        presiso = ()
+        opcional = {}
 
         Definitions
-        need = \`()\`
-        optional = \`{}\`
+        need = ()
+        optional = {}
 
        "t.8ball (pergunta)"
        //oque posso prever para você?
@@ -111,20 +111,29 @@ ${config.prefix}help outros**
 
        "t.rr"
        //brincadeira de roleta russa vamos ver se dispara!
-       
+
+       "t.bottleflip"
+       //se cair em pé você me deve um abraso
+
+       "t.dog"
+       //fotos aleatorias de cachorrinhos fofos :3
+
+       "t.cat"
+       //fotos aleatorias de gatinhos fofos :3
+
        2020 © ${client.user.username}.\`\`\``);
       }else if (message.content.includes("diversão2")) {
-        message.channel.send(`${message.author} porfavor verifique seu PV!`)
-        return message.author.send(`\`\`\`js
+        message.channel.send(`${message.author}
+        \`\`\`js
         ♾ Olá ${message.author.username} eu sou todyynho zuero kkk mas bom essa é a parte 2 dos comandos de diverção! 😁 🥳 
 
         definições 
-        presiso = \`()\`
-        opcional = \`{}\`
+        presiso = ()
+        opcional = {}
 
         Definitions
-        need = \`()\`
-        optional = \`{}\`
+        need = ()
+        optional = {}
            
        "t.mina"
        //hmm que mina em?..
@@ -177,17 +186,17 @@ ${config.prefix}help outros**
         2020 © ${client.user.username}.\`\`\``)
   
       } else if (message.content.includes("adiministração")) {
-        message.channel.send(`${message.author} porfavor verifique seu PV!`)
-        return message.author.send(`\`\`\`js
+        message.channel.send(`${message.author}
+        \`\`\`js
         🔰Olá ${message.author.username} eu sou todyynho zuero kkk mas bom esses são os comandos recomendados para adiministradores! staffs e etc
 
         definições 
-        presiso = \`()\`
-        opcional = \`{}\`
+        presiso = ()
+        opcional = {}
 
         Definitions
-        need = \`()\`
-        optional = \`{}\`
+        need = ()
+        optional = {}
 
    
         "t.kick (@membro) {rasão}"
@@ -224,17 +233,17 @@ ${config.prefix}help outros**
   
   
       } else if (message.content.includes("outros")) {
-        message.channel.send(`${message.author} porfavor verifique seu PV!`)
-        return  message.author.send(`\`\`\`js
+        message.channel.send(`${message.author}
+        \`\`\`js
         🔮 Olá ${message.author.username} eu sou todyynho zuero kkk mas esses são os comando que presisa de permições/"diverções"
 
         definições 
-        presiso = \`()\`
-        opcional = \`{}\`
+        presiso = ()
+        opcional = {}
 
         Definitions
-        need = \`()\`
-        optional = \`{}\`
+        need = ()
+        optional = {}
 
    
         "t.cartinha (@membro) (mensagem)"
