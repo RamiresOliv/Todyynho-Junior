@@ -41,9 +41,9 @@
 
 <details>
 <summary>Click to reveal</summary>
- 
- 
+
  MIT License
+ 
 ```
 Copyright (c) 2020 Gabriel Ramires de Oliveira
 
