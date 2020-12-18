@@ -3,17 +3,22 @@
 
 </p>
 <p align="center">
+<a href="README_EN.md"><img src="https://img.shields.io/badge/🌐_Readme_📖-Read_In_English-03ebfc.svg"></a>
+<a href="README.md"><img src="https://img.shields.io/badge/🌐_Readme_📖-Leia_em_Português-03fc41.svg"></a>
+</p>
+<p align="center">
+ 
+</p>
+<p align="center">
 <a href="https://github.com/gabrielramires/Todyynho-Junior"><img src="https://github.com/ntkme/github-buttons/workflows/build/badge.svg"></a>
 <a href="https://gabrielramiresdeol.wixsite.com/todyynhojunior"><img src="https://img.shields.io/badge/Website-ver-fc030b.svg"></a>
-<a href="CONTRIBUINDO.md"><img src="https://img.shields.io/badge/Contribuindo-visitar-fcf803.svg"></a>
 <a href="https://github.com/gabrielramires/Todyynho-Junior/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0394fc.svg"></a>
 </p>
 <p align="center">
 
 </p>
 <p align="center">
-<a href="README_EN.md"><img src="https://img.shields.io/badge/🌐_Readme_📖-Read_In_English-03ebfc.svg"></a>
-<a href="README.md"><img src="https://img.shields.io/badge/🌐_Readme_📖-Leia_em_Português-03fc41.svg"></a>
+<a href="CONTRIBUINDO.md"><img src="https://img.shields.io/badge/Contribuindo-visitar-fcf803.svg"></a>
 </p>
 <p align="center">
  
