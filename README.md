@@ -1,18 +1,17 @@
 <h1 align="center"> 🎄 Toddynho Junior © ☕ </h1>
 <p align="center"> Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro 👌
-
-</p>
-<p align="center">
-<a href="README_EN.md"><img src="https://img.shields.io/badge/🇺🇸_Readme_📖-Read_In_English-03ebfc.svg"></a>
-<a href="README.md"><img src="https://img.shields.io/badge/🇧🇷_Readme_📖-Leia_em_Português-03fc41.svg"></a>
-</p>
-<p align="center">
  
 </p>
 <p align="center">
 <a href="https://github.com/gabrielramires/Todyynho-Junior"><img src="https://github.com/ntkme/github-buttons/workflows/build/badge.svg"></a>
 <a href="https://gabrielramiresdeol.wixsite.com/todyynhojunior"><img src="https://img.shields.io/badge/Website-ver-fc030b.svg"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-0394fc.svg"></a>
+</p>
+<p align="center">
+
+</p>
+<p align="center">
+<a href="README_EN.md"><img src="https://img.shields.io/badge/🇺🇸_Readme_📖-Read_In_English-03ebfc.svg"></a>
 </p>
 <p align="center">
 
