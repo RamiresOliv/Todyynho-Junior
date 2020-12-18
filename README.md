@@ -1,5 +1,5 @@
 <h1 align="center"> 🎄 Toddynho Junior © ☕ </h1>
-Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro 👌
+<p align="center"> Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro 👌
 
 </p>
 <p align="center">
@@ -15,10 +15,14 @@ Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro �
 <a href="README.md"><img src="https://img.shields.io/badge/🌐_Readme_📖-Leia_em_Português-03fc41.svg"></a>
 </p>
 <p align="center">
+ 
+</p>
+<p align="center">
+<a href="https://github.com/gabrielramires/Todyynho-Junior/tree/master/commands"><img src="https://discord.com/assets/9f358f466473586417baee7bacfba5ca.svg"></a>
+</p>
+<p align="center">
 
-[![ ](https://discord.com/assets/9f358f466473586417baee7bacfba5ca.svg)](https://github.com/gabrielramires/Todyynho-Junior/tree/master/commands)
-
-**clique na file a cima para ir para meus comandos!**
+<p align="center"> clique na file a cima para ir para meus comandos!
 
 [![ ](https://cdn.discordapp.com/attachments/777974696910127115/786266177173192714/unknown.png)](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599) 
 
