@@ -2,6 +2,17 @@ const Discord = require("discord.js");
 const client = new Discord.Client(); 
 const bot = client
 const config = require("./Config/config.json");
+const config_user = require("./Config/user.json");
+const express = require('express');
+
+const app = express();
+app.get("/", (request, response) => {
+  const ping = new Date();
+  ping.setHours(ping.getHours() - 5);
+  console.log(`Ping recebido às ${ping.getUTCHours()}:${ping.getUTCMinutes()}:${ping.getUTCSeconds()}`);
+  response.sendStatus(500);
+});
+app.listen(process.env.PORT);
 
 
 client.on('ready', () => {
@@ -10,6 +21,7 @@ client.on('ready', () => {
     `Meu Prefixo: ${config.prefix}`,
     `estou em ${client.guilds.cache.size} servidores!`,
     `presisa de ajuda? use ${config.prefix}help`,
+    `me website gabrielramiresdeol.wixsite.com/todyynhojunior`,
     `${client.users.cache.size} usuários em todos servidores que estou! e ${client.channels.cache.size} canais de servidores que estou!!`
   ],
     i = 0;
@@ -39,15 +51,15 @@ client.on('message', message => {
      const commandFile = require(`./commands/${command}.js`)
      commandFile.run(client, message, args);
  } catch (err) {
-  console.error(`Um erro foi detectado!` 
-  + err);
- }  
- });
-
-bot.on('ready', () => {
-console.log(`I'm online and now I'm on ${client.guilds.cache.size} servers, ${client.users.cache.size} users and ${client.channels.cache.size} channels.
-Application name logged ${client.user.tag}!
-`)
+  console.error(`Um novo erro avista! Error:
+` + err);
+ } 
 });
 
-client.login(config.token)
+
+bot.on('ready', () => {
+console.log(`APP successfully logged in on behalf of: ${client.user.tag}.
+estou online e agora estou em ${client.guilds.cache.size} servidores, ${client.users.cache.size} usuários e com ${client.channels.cache.size} canais
+`)
+});
+client.login(config.token);
