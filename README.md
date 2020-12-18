@@ -24,7 +24,7 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/gabrielramires/Todyynho-Junior/tree/master/commands"><img src="https://discord.com/assets/9f358f466473586417baee7bacfba5ca.svg"></a>
+<a href="commands"><img src="https://discord.com/assets/9f358f466473586417baee7bacfba5ca.svg"></a>
 </p>
 <p align="center">
 
