@@ -3,8 +3,8 @@
 
 </p>
 <p align="center">
-<a href="README_EN.md"><img src="https://img.shields.io/badge/🌐_Readme_📖-Read_In_English-03ebfc.svg"></a>
-<a href="README.md"><img src="https://img.shields.io/badge/🌐_Readme_📖-Leia_em_Português-03fc41.svg"></a>
+<a href="README_EN.md"><img src="https://img.shields.io/badge/🇺🇸_Readme_📖-Read_In_English-03ebfc.svg"></a>
+<a href="README.md"><img src="https://img.shields.io/badge/🇧🇷_Readme_📖-Leia_em_Português-03fc41.svg"></a>
 </p>
 <p align="center">
 
