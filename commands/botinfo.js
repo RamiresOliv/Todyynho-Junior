@@ -52,10 +52,3 @@ const status = {
 
 message.channel.send(`${message.author}`, embed);
 };
-
-
-//\n
-//const prefixo = config.prefix
-//.addField("", `\`5 months  23 day 19 hours\``)
-//[guild](https://discord.gg/agnvfC4)
-//.setFooter('thanks :3 use t.uptime to see my time online')
