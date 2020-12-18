@@ -23,8 +23,12 @@
 <p align="center">
 
 <p align="center"> clique na file a cima para ir para meus comandos!
-
-[![ ](https://cdn.discordapp.com/attachments/777974696910127115/786266177173192714/unknown.png)](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599) 
+ 
+</p>
+<p align="center">
+<a href="https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599"><img src="https://cdn.discordapp.com/attachments/777974696910127115/786266177173192714/unknown.png"></a>
+</p>
+<p align="center">
 
 ## © Licença
 
