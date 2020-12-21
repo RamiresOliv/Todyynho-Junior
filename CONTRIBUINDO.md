@@ -1,4 +1,4 @@
-# 📑 Ajude-me a ficar melhor!
+<h1 align="center"> 📑 Ajude-me a ficar melhor! </h1> 
 
 1. [adicione-me](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599)
 2. Sugestões `Traga sugestões para min na DM Ramires Oliv GTJ🐺ツඞlk#2009`
