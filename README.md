@@ -132,16 +132,28 @@ Resumo do compromisso
 * Colocarei ⚠ para mudar imediatamente e  ✔ que não presisa mudar
 
 1. ⚠ Troque o `xxxx` para o token do seu bot!
-2. ⚠ Troque o `teu id` para seu ID do discord!
-3. ✔ Troque o `teu nome` para seu nome no discord!
-4. ✔ Troque o `t.` para um prefix aleatorio!
+2. ✔ Troque o `t.` para um prefix aleatorio!
 
-```javascript
+```json
 {
     "prefix":"t.",
-    "owner1":"teu id",
-    "owner2":"teu nome",
     "token":"xxxx"
+}
+```
+
+2. na file `user.json` teremos que colocar algumas coisas 
+
+* Colocarei ⚠ para mudar imediatamente e  ✔ que não presisa mudar
+
+1. ⚠ Troque o `id do teu bot do discord` para seu ID do discord!
+2. ⚠ Troque o `teu id do discord` para seu ID do discord!
+3. ✔ Troque o `Ramires Oliv` para colocar seu nome
+
+```json
+{
+  "userid": "teu id do discord",
+  "botid": "id do teu bot do discord",
+  "user": "Ramires Oliv"
 }
 ```
 
