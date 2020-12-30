@@ -130,20 +130,31 @@ Commitment summary
 
 * I will put ⚠ to change immediately and ✔ that does not need to change
 
-1. ⚠ Troque o `xxxx` para o token do seu bot!
-2. ⚠ Troque o `teu id` para seu ID do discord!
-3. ✔ Troque o `teu nome` para seu nome no discord!
-4. ✔ Troque o `t.` para um prefix aleatorio!
+1. ⚠ Change the `xxxx` for your bot's token!
+2. ✔ Change the `t.` for a random prefix!
 
-```javascript
+```json
 {
     "prefix":"t.",
-    "owner1":"teu id",
-    "owner2":"teu nome",
     "token":"xxxx"
 }
 ```
 
+2. inside the file `user.json` we will have to put some things.
+
+* I will put ⚠ to change immediately and ✔ that does not need to change
+
+1. ⚠ Change the `id do teu bot do discord` for your discord ID!
+2. ⚠ Change the `teu id do discord` for your discord ID!
+3. ✔ Change the `Ramires Oliv` to put your name
+
+```json
+{
+  "userid": "teu id do discord",
+  "botid": "id do teu bot do discord",
+  "user": "Ramires Oliv"
+}
+```
 ## 🎬 turning on the bot! (by vscode)
 > after completing the step of renaming `config.json.exemple` and also modifying` config.json.exemple` you can proceed if you don’t go away **[1 corfiguration](https://github.com/gabrielramires/Todyynho-Junior#%EF%B8%8F-configura%C3%A7%C3%A3o)**.
 
