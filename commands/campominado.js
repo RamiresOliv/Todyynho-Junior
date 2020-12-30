@@ -1,12 +1,12 @@
-
-const Discord = require("discord.js"); 
+const Discord = require("discord.js");
 
 exports.run = async (client, message, args) => {
-
-  let embed = new Discord.MessageEmbed() 
-    .setThumbnail(`https://images.emojiterra.com/google/android-nougat/512px/1f4a3.png`)
-    .setColor('#ff0d00')
-    .setTitle(`**campo minado** ${message.author.username}`) 
+  let embed = new Discord.MessageEmbed()
+    .setThumbnail(
+      `https://images.emojiterra.com/google/android-nougat/512px/1f4a3.png`
+    )
+    .setColor("#ff0d00")
+    .setTitle(`**campo minado** ${message.author.username}`)
     .setDescription(
       `||:zero:||||:one:||||:one:||||:one:||||:one:||||:boom:||||:two:||||:one:||||:zero:|| 
  ||:zero:||||:two:||||:boom:||||:three:||||:two:||||:two:||||:boom:||||:one:||||:zero:||
@@ -19,7 +19,9 @@ exports.run = async (client, message, args) => {
  ||:zero:||||:zero:||||:zero:||||:zero:||||:zero:||||:zero:||||:zero:||||:zero:||||:zero:|| `
     )
     .setTimestamp()
-    .setFooter(`wow gostou? heah`, message.author.displayAvatarURL({format: "png"}));
- await message.channel.send(`${message.author}`, embed); 
-
+    .setFooter(
+      `wow gostou? heah`,
+      message.author.displayAvatarURL({ format: "png" })
+    );
+  await message.channel.send(`${message.author}`, embed);
 };

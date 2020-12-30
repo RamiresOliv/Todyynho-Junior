@@ -1,20 +1,19 @@
 const Discord = require("discord.js");
 exports.run = async (client, message, args) => {
-  
- message.delete({timeout: 200});
+  message.delete({ timeout: 200 });
 
-function checkDays(date) {
-  let now = new Date();
-  let diff = now.getTime() - date.getTime();
-  let days = Math.floor(diff / 86400000);
-  return days + (days == 1 ? " day" : " days") + " ago";
-}
+  function checkDays(date) {
+    let now = new Date();
+    let diff = now.getTime() - date.getTime();
+    let days = Math.floor(diff / 86400000);
+    return days + (days == 1 ? " day" : " days") + " ago";
+  }
   let verifLevels = [
     "nehum",
     "baixa",
     "Medio",
     "(╯°□°）╯︵  ┻━┻",
-    "┻━┻ミヽ(ಠ益ಠ)ノ彡┻━┻"
+    "┻━┻ミヽ(ಠ益ಠ)ノ彡┻━┻",
   ];
   let region = {
     brazil: "Brazil",
@@ -29,7 +28,7 @@ function checkDays(date) {
     "vip-us-east": "VIP U.S. East",
     london: "London",
     amsterdam: "Amsterdam",
-    hongkong: "Hong Kong"
+    hongkong: "Hong Kong",
   };
 
   var emojis;
@@ -63,20 +62,28 @@ function checkDays(date) {
       true
     )
     .addField(" | Região", region[message.guild.region], true)
-    .addField(":white_flower: | Total de membros", message.guild.memberCount, true)
+    .addField(
+      ":white_flower: | Total de membros",
+      message.guild.memberCount,
+      true
+    )
     .addField(
       ":busts_in_silhouette: | Pessoas",
-      message.guild.members.cache.filter(m => !m.user.bot).size,
+      message.guild.members.cache.filter((m) => !m.user.bot).size,
       true
     )
     .addField(
       ":robot: | Bots",
-      message.guild.members.cache.filter(m => m.user.bot).size,
+      message.guild.members.cache.filter((m) => m.user.bot).size,
       true
     )
     .addField(":abacus: | Cargos", message.guild.roles.cache.size, true)
     .addField(":placard: | Canais", message.guild.channels.cache.size, true)
-    .addField(":clipboard: | Verificacão Level", message.guild.verificationLevel, true)
+    .addField(
+      ":clipboard: | Verificacão Level",
+      message.guild.verificationLevel,
+      true
+    )
     .setColor(Math.floor(Math.random() * 16777215));
   message.channel.send(`${message.author}`, { embed });
-}
+};

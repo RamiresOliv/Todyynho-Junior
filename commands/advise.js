@@ -17,7 +17,7 @@ module.exports = {
                     const advice = JSON.parse(res.text)
                     message.channel.send(advice.slip.advice)
                 } else {
-                console.error(`REST call failed: ${err}, status code: ${res.status}`)
+                    console.error(`REST call failed: ${err}, status code: ${res.status}`)
                 }
             });
     },

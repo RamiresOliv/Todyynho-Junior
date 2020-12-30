@@ -1,10 +1,6 @@
 module.exports.run = async (bot, message, args) => {
+  message.channel.send("¯\\_(ツ)_/¯");
 
-message.channel.send("¯\\_\(ツ)\_\/¯");
+  message.delete();
+};
 
-message.delete();
-
-}
-module.exports.help = {
-  name: "shrug"
-}

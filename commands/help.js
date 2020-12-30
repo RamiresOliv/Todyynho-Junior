@@ -1,23 +1,22 @@
-const Discord = require("discord.js"); 
-const config = require("../Config/config.json");
+const Discord = require("discord.js");
+const config = require("../config/config.json");
 
 exports.run = async (client, message, args) => {
-
-  const palavra_chave = args.join(' ');
+  const palavra_chave = args.join(" ");
 
   let embed3 = new Discord.MessageEmbed()
-  .setColor("#fff200")
-  .setTitle(`:warning: **ERROR**`)
-  .setDescription(`<:xmark:314349398824058880> Oops ${message.author.username} porfavor escolha um deles.
+    .setColor("#fff200")
+    .setTitle(`:warning: **ERROR**`)
+    .setDescription(`<:xmark:314349398824058880> Oops ${message.author.username} porfavor escolha um deles.
    \`\`\`fix
    ${config.prefix}help diversão1
    ${config.prefix}help diversão2\`\`\`
    
-   ERROR: o comando t.help diversão não foi definido`)
+   ERROR: o comando t.help diversão não foi definido`);
 
-  let embed = new Discord.MessageEmbed() 
-    .setColor('#ff0d00')
-    .setTitle(`pediu ajuda?`) 
+  let embed = new Discord.MessageEmbed()
+    .setColor("#ff0d00")
+    .setTitle(`pediu ajuda?`)
     .setDescription(
       `<a:twitchbits:760845867207884880> **Ajuda** (Humana)**|** presisa de ajuda entre no meu server de suporte!
 [servidor](https://discord.gg/agnvfC4)
@@ -56,12 +55,15 @@ ${config.prefix}help outros**
 📄 **nota|** Se o ${client.user.username} for utilizado de forma mal em algum servidor lembre-se que **não somos responsáveis** por nada só mente por problemas técnicos obrigado.`
     )
     .setTimestamp()
-    .setFooter(`• estou em ${client.guilds.cache.size} servidores conectados! obrigado por seu apoio`, message.author.displayAvatarURL({format: "png"}));
+    .setFooter(
+      `• estou em ${client.guilds.cache.size} servidores conectados! obrigado por seu apoio`,
+      message.author.displayAvatarURL({ format: "png" })
+    );
 
-    if(!args[0]){
- return message.channel.send(embed); 
-    } else if (message.content.includes("diversão1")) {
-      message.channel.send(`${message.author}
+  if (!args[0]) {
+    return message.channel.send(embed);
+  } else if (message.content.includes("diversão1")) {
+    message.channel.send(`${message.author}
        \`\`\`js
         ♾ Olá ${message.author.username} eu sou todyynho zuero kkk mas bom essa é a parte 1 dos comandos de diverção! 😁 🥳
 
@@ -103,9 +105,6 @@ ${config.prefix}help outros**
        "t.fonte (message)"
        //transforma textos em outra fonte
 
-       "t.game"
-       //o jogo favorito do ramires!
-
        "t.gato"
        //que gato em?...
 
@@ -122,8 +121,8 @@ ${config.prefix}help outros**
        //fotos aleatorias de gatinhos fofos :3
 
        2020 © ${client.user.username}.\`\`\``);
-      }else if (message.content.includes("diversão2")) {
-        message.channel.send(`${message.author}
+  } else if (message.content.includes("diversão2")) {
+    message.channel.send(`${message.author}
         \`\`\`js
         ♾ Olá ${message.author.username} eu sou todyynho zuero kkk mas bom essa é a parte 2 dos comandos de diverção! 😁 🥳 
 
@@ -183,10 +182,9 @@ ${config.prefix}help outros**
        "t.txtflip (message)"
        //pǝɯousʇɹɐção
        
-        2020 © ${client.user.username}.\`\`\``)
-  
-      } else if (message.content.includes("adiministração")) {
-        message.channel.send(`${message.author}
+        2020 © ${client.user.username}.\`\`\``);
+  } else if (message.content.includes("adiministração")) {
+    message.channel.send(`${message.author}
         \`\`\`js
         🔰Olá ${message.author.username} eu sou todyynho zuero kkk mas bom esses são os comandos recomendados para adiministradores! staffs e etc
 
@@ -229,11 +227,9 @@ ${config.prefix}help outros**
         "t.slowmode (segundos)" (para remover o slowmode use t.slowmode 0)
         //ele muda o tempo que as pessoas podem falar no canal que o comando foi usado
         
-        2020 © ${client.user.username}.\`\`\``)
-  
-  
-      } else if (message.content.includes("outros")) {
-        message.channel.send(`${message.author}
+        2020 © ${client.user.username}.\`\`\``);
+  } else if (message.content.includes("outros")) {
+    message.channel.send(`${message.author}
         \`\`\`js
         🔮 Olá ${message.author.username} eu sou todyynho zuero kkk mas esses são os comando que presisa de permições/"diverções"
 
@@ -279,19 +275,18 @@ ${config.prefix}help outros**
         "t.guild (id do serv)"
         //informaçõoes do id de algum server
 
-        "t.infoconf"
-        //minhas infos pessoais 
-
         "t.uptime"
-        //o tempo que eu acordei!
+        //o tempo que eu estou acordado!
 
         "t.github"
         //meu proprio GitHub!!
         
-        2020 © ${client.user.username}.\`\`\``)
-      } else if(message.content.includes("diversão")) {
-        return message.channel.send(message.author, embed3); 
-    } else {
-      message.channel.send(`Ei ${message.author} infelizmente \`${palavra_chave}\` não é uma palavra chave certa porfavor tente novamente...`)
-    }
+        2020 © ${client.user.username}.\`\`\``);
+  } else if (message.content.includes("diversão")) {
+    return message.channel.send(message.author, embed3);
+  } else {
+    message.channel.send(
+      `Ei ${message.author} infelizmente \`${palavra_chave}\` não é uma palavra chave certa porfavor tente novamente...`
+    );
+  }
 };
