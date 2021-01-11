@@ -129,32 +129,28 @@ Resumo do compromisso
 ⚠ **Atanção!**
 **antes de tudo** troque ou copie o nome da file `config.json.exemple` para `config.json` depois disso continue!
 
-* Colocarei ⚠ para mudar imediatamente e  ✔ que não presisa mudar
+1. verifique a file `config.json` e mude algumas coisas.
+```
 
-1. ⚠ Troque o `xxxx` para o token do seu bot!
-2. ✔ Troque o `t.` para um prefix aleatorio!
-
-```json
-{
-    "prefix":"t.",
-    "token":"xxxx"
-}
+📄 config.json
+└── discord bot info
+    ├── token
+    │   * o seu token Seu toen do bot
+    ├── prefix
+    └── * troque pelo seu prefix ou deixe esse 
 ```
 
 2. na file `user.json` teremos que colocar algumas coisas 
 
-* Colocarei ⚠ para mudar imediatamente e  ✔ que não presisa mudar
-
-1. ⚠ Troque o `id do teu bot do discord` para seu ID do discord!
-2. ⚠ Troque o `teu id do discord` para seu ID do discord!
-3. ✔ Troque o `Ramires Oliv` para colocar seu nome
-
-```json
-{
-  "userid": "teu id do discord",
-  "botid": "id do teu bot do discord",
-  "user": "Ramires Oliv"
-}
+```
+📄 user.json
+└── discord users info
+    ├── userid
+    │   * Colque seu ID do discord aqui!
+    ├── botid
+    │   * Coloque o ID do discord de seu bot aqui!
+    ├── user
+    └── * Coloque seu nome aqui!
 ```
 
 ## 🎬 ligando o bot! (pelo vscode)
