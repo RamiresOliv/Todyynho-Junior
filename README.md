@@ -259,5 +259,3 @@ app.listen(process.env.PORT);
 ![ ](https://cdn.discordapp.com/attachments/709833617370513498/785863070969757746/unknown.png)
 
 * caso esteja como nessa foto o descriminador `#4542` é o verdadeiro!
-
-# 🎄 Feliz Natal! 🎄
