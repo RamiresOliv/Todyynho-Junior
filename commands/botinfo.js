@@ -1,5 +1,6 @@
 const Discord = require("discord.js");
 const config = require("../config/config.json");
+const user_config = require("../config/user.json")
 
 exports.run = async (client, message, args) => {
   let totalSeconds = client.uptime / 1000;
@@ -11,6 +12,7 @@ exports.run = async (client, message, args) => {
   let uptime = ` ${days.toFixed()} \`days\` ${hours.toFixed()} \`hours\` ${minutes.toFixed()} \`minutes\` ${seconds.toFixed()} \`seconds\``;
 
   const version = "v11.3.2";
+  const ownertag = `\`${user_config.ownertag}\``
   const prefix = `\`${config.prefix}\``;
   const helpcmd = `\`${config.prefix}help\``;
   const owner = `\`${config.owner2}\``;
@@ -30,12 +32,13 @@ exports.run = async (client, message, args) => {
   const embed = new Discord.MessageEmbed()
     .setTitle("**me info**")
     .setColor("RANDOM")
-    .setDescription(`**Hello** how are you? here is some information about me!`)
+    .setDescription(`**Hello** how are you? here is some information about me! 
+    Use "t.infosistem" to see more information`)
     .addField("Prefix", prefix, true)
     .addField("All guilds connected", guilds_all, true)
     .addField("Members of all connected guilds", members_all, true)
     .addField("All channels connecteds", channels_all, true)
-    .addField("Owner", owner, true)
+    .addField("Owner", ownertag, true)
     .addField("Memory", memory, true)
     .addField("date creat", creatDate, true)
     .addField("Status", "<:online2:464520569975603200> `Online`", true)
@@ -71,3 +74,18 @@ exports.run = async (client, message, args) => {
 
   message.channel.send(`${message.author}`, embed);
 };
+
+
+
+/*
+
+📄 discord.conf
+└── discord
+    ├── client-token
+    │   * Your bot's Discord token
+    ├── client-id
+    │   * Your bot's client ID
+    ├── client-secret
+    └── * Your bot's OAuth2 secret
+
+*/

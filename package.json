@@ -4,6 +4,7 @@
   "description": "Super bot todyynho junior",
   "main": "index.js",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
     "cows": "^2.1.0",
     "custom-translate": "^2.2.8",
     "discord.js": "^12.5.1",
@@ -12,8 +13,12 @@
     "figlet": "^1.5.0",
     "fs": "0.0.1-security",
     "give-me-a-joke": "^0.4.0",
+    "http": "0.0.1-security",
+    "i18n": "^0.13.2",
     "moment": "^2.29.1",
+    "path": "^0.12.7",
     "random-number": "0.0.9",
+    "request": "^2.88.2",
     "snekfetch": "^4.0.4",
     "superagent": "^6.1.0",
     "weather-js": "^2.0.0"

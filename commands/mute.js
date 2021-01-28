@@ -1,5 +1,4 @@
 const Discord = require("discord.js");
-const config_user = require("../config/user.json")
 
 exports.run = async (client, message, args) => {
   if (!message.member.hasPermission("MANAGE_ROLES")) {
@@ -70,7 +69,7 @@ exampler: \`t.mute (@member) {reason}\`
       return message.channel.send(`${message.author} O usuário fornecido já está mutado...`)
     }*/
 
-  if (user.id === config_user.userid)
+  if (user.id === "703754491018739763") {
     return message.channel.send(
       `${message.author} Amigo eu não vou deixar você mutar o meu criador!... -_-'`
     );
@@ -82,7 +81,7 @@ exampler: \`t.mute (@member) {reason}\`
     );
   }
 
-  if (user.id ===  config_user.botid) {
+  if (user.id === "708843221903605780") {
     return message.channel.send(
       `${message.author} Amigo eu não posso me mutar... T-T`
     );

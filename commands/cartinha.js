@@ -16,7 +16,7 @@ error: \`user not found or wrong mention\`
 exampler: \`t.cartinha (@membro) (message)\` `);
 
   if (!user) {
-    return message.channel.send(embed2);
+    return message.channel.send(embed2).then((msg) => msg.delete({ timeout: 20000 }));
   }
 
   let messages = args.slice(1).join(" ");
@@ -33,30 +33,30 @@ error: \`undefined message\`
 exampler: \`t.cartinha (@membro) (message)\` `);
 
   if (!messages) {
-    return message.channel.send(embed3);
+    return message.channel.send(embed3).then((msg) => msg.delete({ timeout: 20000 }));
   }
 
   if (user.id === message.author.id) {
     return message.channel.send(
       `Ei ${message.author} Amigo eu não posso te mandar uma auto mensagem... O-O'`
-    );
+    ).then((msg) => msg.delete({ timeout: 10000 }));
   }
 
   if (user.id === config_user.userid) {
     message.delete();
     return message.channel.send(
       `Ei ${message.author} Amigo não posso mandar mensagem para meu criador porque ele não quer ninguem atrapalhando seu soninho :>`
-    );
+    ).then((msg) => msg.delete({ timeout: 10000 }));
   } else {
     message.channel.send(`${message.author} Mensagem enviada!`);
 
     message.delete();
 
     if (message.author.id === config_user.userid) {
-      user.send(`Ei! ${user} o meu criador ${config.owner2} te enviou uma mensagem pessoal para você! que sorte 😲
+      user.send(`Ei! ${user} o meu criador <@!${config_user.userid}> te enviou uma mensagem pessoal para você! que sorte 😲
   mensagem: ${message}`);
     } else {
-      user.send(`Ei! ${user} o ${message.author} te enviou uma mensagem
+      user.send(`Ei! ${user} o ${message.author} te enviou uma mensagem pessoal
 mensagem: ${messages}`);
     }
   }
