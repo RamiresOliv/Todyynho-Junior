@@ -136,8 +136,8 @@ Resumo do compromisso
 └── discord bot info
     ├── token
     │   * o seu token Seu toen do bot
-    ├── prefix
-    └── * troque pelo seu prefix ou deixe esse 
+    └── prefix
+       * troque pelo seu prefix ou deixe esse 
 ```
 
 2. na file `user.json` teremos que colocar algumas coisas 
@@ -150,7 +150,9 @@ Resumo do compromisso
     ├── botid
     │   * Coloque o ID do discord de seu bot aqui!
     ├── user
-    └── * Coloque seu nome aqui!
+    │   * Coloque seu nome aqui!
+    └── ownertag
+        * Coloque sua Tag do Discord exemplo: Ramires Oliv GTJ🐺ツඞlk#8010
 ```
 
 ## 🎬 ligando o bot! (pelo vscode)
