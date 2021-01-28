@@ -128,33 +128,32 @@ Commitment summary
 ⚠ **Attention!**
 **first of all** change or copy the file name `config.json.exemple` to` config.json` after that continue!
 
-* I will put ⚠ to change immediately and ✔ that does not need to change
-
-1. ⚠ Change the `xxxx` for your bot's token!
-2. ✔ Change the `t.` for a random prefix!
-
-```json
-{
-    "prefix":"t.",
-    "token":"xxxx"
-}
+1. check the file `config.json` and change some things.
 ```
 
-2. inside the file `user.json` we will have to put some things.
-
-* I will put ⚠ to change immediately and ✔ that does not need to change
-
-1. ⚠ Change the `id do teu bot do discord` for your discord ID!
-2. ⚠ Change the `teu id do discord` for your discord ID!
-3. ✔ Change the `Ramires Oliv` to put your name
-
-```json
-{
-  "userid": "teu id do discord",
-  "botid": "id do teu bot do discord",
-  "user": "Ramires Oliv"
-}
+📄 config.json
+└── discord bot info
+    ├── token
+    │   * o seu token Seu toen do bot
+    └── prefix
+       * troque pelo seu prefix ou deixe esse 
 ```
+
+2. in file `user.json` we will have to put some things 
+
+```
+📄 user.json
+└── discord users info
+    ├── userid
+    │   * Colque seu ID do discord aqui!
+    ├── botid
+    │   * Coloque o ID do discord de seu bot aqui!
+    ├── user
+    │   * Coloque seu nome aqui!
+    └── ownertag
+        * Coloque sua Tag do Discord exemplo: Ramires Oliv GTJ🐺ツඞlk#8010
+```
+
 ## 🎬 turning on the bot! (by vscode)
 > after completing the step of renaming `config.json.exemple` and also modifying` config.json.exemple` you can proceed if you don’t go away **[1 corfiguration](https://github.com/gabrielramires/Todyynho-Junior#%EF%B8%8F-configura%C3%A7%C3%A3o)**.
 
