@@ -14,7 +14,7 @@ exports.run = async (client, message, args) => {
     .addField("Meu servidor", "[servidor](https://discord.gg/r7RrcWr)")
     .addField(
       "Meu link para me adicionar",
-      "[adicionar](https://discord.com/oauth2/authorize?client_id=708843221903605780&scope=bot&permissions=1031269599)"
+      `[adicionar](https://discord.com/oauth2/authorize?client_id=${message.client.user.id}&scope=bot&permissions=1031269599)`
     )
     .addField(
       "Meu site do discord Bot List",
