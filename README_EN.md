@@ -134,9 +134,9 @@ Commitment summary
 📄 config.json
 └── discord bot info
     ├── token
-    │   * o seu token Seu toen do bot
+    │   * Put your bot's token
     └── prefix
-       * troque pelo seu prefix ou deixe esse 
+       * Change to your prefix or leave it like this 
 ```
 
 2. in file `user.json` we will have to put some things 
@@ -145,13 +145,13 @@ Commitment summary
 📄 user.json
 └── discord users info
     ├── userid
-    │   * Colque seu ID do discord aqui!
+    │   * Place your discord ID
     ├── botid
-    │   * Coloque o ID do discord de seu bot aqui!
+    │   * Enter your bot's disc ID
     ├── user
-    │   * Coloque seu nome aqui!
+    │   * Put your name  Note: not necessary
     └── ownertag
-        * Coloque sua Tag do Discord exemplo: Ramires Oliv GTJ🐺ツඞlk#8010
+        * Put your Discord Tag example: Ramires Oliv GTJ🐺ツඞlk#8010
 ```
 
 ## 🎬 turning on the bot! (by vscode)
