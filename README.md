@@ -135,22 +135,22 @@ Resumo do compromisso
 📄 config.json
 └── discord bot info
     ├── token
-    │   * o seu token Seu toen do bot
+    │   * Coloque o token de seu bot.
     └── prefix
-       * troque pelo seu prefix ou deixe esse 
+       * Troque pelo seu prefix ou deixe como esta.
 ```
 
 2. na file `user.json` teremos que colocar algumas coisas 
 
 ```
 📄 user.json
-└── discord users info
+└── discord users info.
     ├── userid
-    │   * Colque seu ID do discord aqui!
+    │   * Colque seu ID do discord .
     ├── botid
-    │   * Coloque o ID do discord de seu bot aqui!
+    │   * Coloque o ID do discord de seu bot aqui.
     ├── user
-    │   * Coloque seu nome aqui!
+    │   * Coloque seu nome.   Nota: não necessário.
     └── ownertag
         * Coloque sua Tag do Discord exemplo: Ramires Oliv GTJ🐺ツඞlk#8010
 ```
