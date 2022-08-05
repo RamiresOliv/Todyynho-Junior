@@ -5,6 +5,7 @@
 </p>
 <p align="center">
 
+<h1 align="center"> ⚠ DEPRECATED ⚠ </h1>
 <h1 align="center"> 🎄 ©Toddynho Junior ☕ </h1>
 <p align="center"> Sou o Toddynho Junior um Bot de Diversão/Adiministrador do Discord Brasileiro 👌
  
